@@ -13,4 +13,8 @@ html {
  */
 *, ::before, ::after {
   box-sizing: inherit;
-} 
+}
+
+.current {
+  color: green;
+}
